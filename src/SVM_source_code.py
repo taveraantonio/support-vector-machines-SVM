@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 AI&ML Homework - Prof. Caputo, Year 2018
-Homework 2
+Homework 2 - Politecnico di Torino
 @student: Antonio Tavera 
-@id: 243869
+
 
 Created on Sun Nov 25 16:07:25 2018
 """
